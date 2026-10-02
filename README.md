@@ -11,7 +11,7 @@
 💼 Portfolio on Android Marketplace: https://play.google.com/store/apps/developer?id=Joy+Leap+Innovations<br>
 💼 Portfolio on Android Marketplace: https://play.google.com/store/apps/dev?id=5473609356611871510<br>
 💼 Developing a game for Ardiless: Ardiless Run<br>
-💼 Developing an AR game for Universitas Negeri Surabaya: Rusa Kece UNESA
+💼 Developing an AR game for Universitas Negeri Surabaya: Rusa Kece UNESA<br>
 💼 Developing a VR game for an event at the 2023 Korea Medical Tourism Festival<br>
 💼 Developed a virtual reality (VR) training game for PJB Jawa Bali, designed to train users in the installation of electrical machinery and equipment.<br>
 💼 Snapshot of games: https://drive.google.com/drive/folders/1wWqME4QtiJYU-ccHKbig1yXTrReTk8_-?usp=sharing<br>
