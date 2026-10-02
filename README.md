@@ -4,7 +4,7 @@
 👋 I'm Rahman Diki Ardian <br>
 🏢 I've been working in game development for more than 5 years <br>
 👀 I'm interested in Game Development.<br>
-😁 I'm easy to adapt to new environments. <br>
+😁 I adapt to new environments. <br>
 📫 Reach me: rahmandikiardian@gmail.com <br>
 # -----------------------Game Development-------------------<br>
 💼 Portfolio on Android Marketplace: https://play.google.com/store/apps/dev?id=7165921093297222979&hl=en<br>
@@ -14,6 +14,8 @@
 💼 Developing a VR game for an event at the 2023 Korea Medical Tourism Festival<br>
 💼 Developed a virtual reality (VR) training game for PJB Jawa Bali, designed to train users in the installation of electrical machinery and equipment.<br>
 💼 Snapshot of games: https://drive.google.com/drive/folders/1wWqME4QtiJYU-ccHKbig1yXTrReTk8_-?usp=sharing<br>
+-------------------------------------------------------------------------------------------------------------<br>
+ ▶️ Figma version of my portfolio: https://www.figma.com/proto/h2q4AtYtw7mvqgwfD8QQJT/Portofolio-Rahman-Diki-Ardian <br>
 
 <!--
 **RahmanDikiArdian/RahmanDikiArdian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
